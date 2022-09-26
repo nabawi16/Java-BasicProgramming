@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78378e49-bde1-4562-9c84-c7d86b5c6598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inputOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="78378e49-bde1-4562-9c84-c7d86b5c6598" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.inputOutput">
+  <component name="RunManager" selected="Application.kalkulator">
     <configuration name="bilanganPrima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bilanganPrima" />
       <module name="Java-BasicProgramming" />
@@ -185,8 +182,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalkulator" />
+      <module name="Java-BasicProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kalkulator" />
         <item itemvalue="Application.inputOutput" />
         <item itemvalue="Application.ganjilGenap" />
         <item itemvalue="Application.faktorBilangan" />
