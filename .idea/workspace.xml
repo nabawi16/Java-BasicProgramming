@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78378e49-bde1-4562-9c84-c7d86b5c6598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vowelConsonant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -92,11 +92,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/duplicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="204">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#78#119#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/vowelConsonant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/kalkulator.java" />
         <option value="$PROJECT_DIR$/src/konversiNilai.java" />
         <option value="$PROJECT_DIR$/src/duplicate.java" />
+        <option value="$PROJECT_DIR$/src/vowelConsonant.java" />
       </list>
     </option>
   </component>
@@ -189,16 +205,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.duplicate">
+  <component name="RunManager" selected="Application.vowelConsonant">
     <configuration name="duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="duplicate" />
-      <module name="Java-BasicProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ganjilGenap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ganjilGenap" />
       <module name="Java-BasicProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -225,13 +234,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vowelConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vowelConsonant" />
+      <module name="Java-BasicProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.vowelConsonant" />
         <item itemvalue="Application.duplicate" />
         <item itemvalue="Application.konversiNilai" />
         <item itemvalue="Application.kalkulator" />
         <item itemvalue="Application.inputOutput" />
-        <item itemvalue="Application.ganjilGenap" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +266,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -355,8 +370,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/duplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="204">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#78#119#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vowelConsonant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
