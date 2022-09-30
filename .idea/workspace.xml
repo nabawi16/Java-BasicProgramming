@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78378e49-bde1-4562-9c84-c7d86b5c6598" name="Default Changelist" comment="" />
+    <list default="true" id="78378e49-bde1-4562-9c84-c7d86b5c6598" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/kelilingSegitiga.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kelilingPersegiPanjang.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -57,6 +59,15 @@
                 <element signature="e#584#622#0" expanded="true" />
                 <element signature="e#584#622#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kelilingSegitiga.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -88,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/exponentiation.java" />
         <option value="$PROJECT_DIR$/src/kelilingPersegi.java" />
         <option value="$PROJECT_DIR$/src/kelilingPersegiPanjang.java" />
+        <option value="$PROJECT_DIR$/src/kelilingSegitiga.java" />
       </list>
     </option>
   </component>
@@ -153,14 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.kelilingPersegiPanjang">
-    <configuration name="duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="duplicate" />
-      <module name="Java-BasicProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.kelilingSegitiga">
     <configuration name="exponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exponentiation" />
       <module name="Java-BasicProgramming" />
@@ -182,6 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kelilingSegitiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kelilingSegitiga" />
+      <module name="Java-BasicProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="vowelConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vowelConsonant" />
       <module name="Java-BasicProgramming" />
@@ -191,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kelilingSegitiga" />
         <item itemvalue="Application.kelilingPersegiPanjang" />
         <item itemvalue="Application.kelilingPersegi" />
         <item itemvalue="Application.exponentiation" />
         <item itemvalue="Application.vowelConsonant" />
-        <item itemvalue="Application.duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +226,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25809062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -353,6 +366,13 @@
             <element signature="e#584#622#0" expanded="true" />
             <element signature="e#584#622#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kelilingSegitiga.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
