@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78378e49-bde1-4562-9c84-c7d86b5c6598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kelilingPersegi.java" afterDir="false" />
-    </list>
+    <list default="true" id="78378e49-bde1-4562-9c84-c7d86b5c6598" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kelilingPersegi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="221">
+              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -75,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/vowelConsonant.java" />
         <option value="$PROJECT_DIR$/src/exponentiation.java" />
         <option value="$PROJECT_DIR$/src/kelilingPersegi.java" />
+        <option value="$PROJECT_DIR$/src/kelilingPersegiPanjang.java" />
       </list>
     </option>
   </component>
@@ -140,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.kelilingPersegi">
+  <component name="RunManager" selected="Application.kelilingPersegiPanjang">
     <configuration name="duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="duplicate" />
       <module name="Java-BasicProgramming" />
@@ -162,8 +161,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="konversiNilai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="konversiNilai" />
+    <configuration name="kelilingPersegiPanjang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kelilingPersegiPanjang" />
       <module name="Java-BasicProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -178,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kelilingPersegiPanjang" />
         <item itemvalue="Application.kelilingPersegi" />
         <item itemvalue="Application.exponentiation" />
         <item itemvalue="Application.vowelConsonant" />
         <item itemvalue="Application.duplicate" />
-        <item itemvalue="Application.konversiNilai" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +200,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25809062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -327,8 +325,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kelilingPersegi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="221">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kelilingPersegiPanjang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+          <folding>
+            <element signature="e#118#155#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
