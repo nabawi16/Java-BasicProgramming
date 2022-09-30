@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78378e49-bde1-4562-9c84-c7d86b5c6598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsTestFinder.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exponentiation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/faktorBilangan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="255">
               <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
@@ -36,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/faktorBilangan2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="238">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
@@ -54,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/inputOutput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="527">
               <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -66,11 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kalkulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="510">
               <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
-              <folding>
-                <element signature="e#79#118#1" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/konversiNilai.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="1054">
               <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
             </state>
           </provider>
@@ -87,11 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/duplicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="374">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#78#119#1" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -99,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/vowelConsonant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="799">
               <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -111,26 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exponentiation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
-              <folding>
-                <element signature="e#83#97#1" expanded="true" />
-                <element signature="e#135#168#1" expanded="true" />
-                <element signature="e#299#332#1" expanded="true" />
-                <element signature="e#398#467#0" expanded="true" />
-                <element signature="e#375#383#1" expanded="true" />
-                <element signature="e#398#467#0" expanded="true" />
-                <element signature="e#398#467#0" expanded="true" />
-                <element signature="e#398#467#0" expanded="true" />
-                <element signature="e#398#467#0" expanded="true" />
-                <element signature="e#412#429#0" expanded="true" />
-                <element signature="e#496#543#0" expanded="true" />
-                <element signature="e#496#543#0" expanded="true" />
-                <element signature="e#496#543#0" expanded="true" />
-                <element signature="e#496#543#0" expanded="true" />
-                <element signature="e#496#543#0" expanded="true" />
-                <element signature="e#496#543#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -175,8 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,6 +165,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,9 +260,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25809062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JE" order="3" />
@@ -304,7 +277,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="YouTrack" order="7" />
       <window_info anchor="bottom" id="Regex" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3294702" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3294702" />
       <window_info anchor="bottom" id="Java Regex Tester" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
@@ -343,14 +316,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/faktorBilangan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="255">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/faktorBilangan2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="238">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
@@ -364,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/inputOutput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="527">
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -374,34 +347,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kalkulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="510">
           <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
-          <folding>
-            <element signature="e#79#118#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/konversiNilai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="1054">
           <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/duplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#78#119#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vowelConsonant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="799">
           <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -411,26 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exponentiation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
-          <folding>
-            <element signature="e#83#97#1" expanded="true" />
-            <element signature="e#135#168#1" expanded="true" />
-            <element signature="e#299#332#1" expanded="true" />
-            <element signature="e#398#467#0" expanded="true" />
-            <element signature="e#375#383#1" expanded="true" />
-            <element signature="e#398#467#0" expanded="true" />
-            <element signature="e#398#467#0" expanded="true" />
-            <element signature="e#398#467#0" expanded="true" />
-            <element signature="e#398#467#0" expanded="true" />
-            <element signature="e#412#429#0" expanded="true" />
-            <element signature="e#496#543#0" expanded="true" />
-            <element signature="e#496#543#0" expanded="true" />
-            <element signature="e#496#543#0" expanded="true" />
-            <element signature="e#496#543#0" expanded="true" />
-            <element signature="e#496#543#0" expanded="true" />
-            <element signature="e#496#543#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
