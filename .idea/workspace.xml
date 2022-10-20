@@ -71,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/menghitungRatarataBilangan.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -80,6 +80,26 @@
                 <element signature="e#95#134#0" expanded="true" />
                 <element signature="e#684#730#0" expanded="true" />
                 <element signature="e#684#730#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/menukarNilaiVariable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding>
+                <element signature="e#89#96#0" expanded="true" />
+                <element signature="e#171#178#0" expanded="true" />
+                <element signature="e#171#178#0" expanded="true" />
+                <element signature="e#208#215#0" expanded="true" />
+                <element signature="e#208#215#0" expanded="true" />
+                <element signature="e#343#350#0" expanded="true" />
+                <element signature="e#343#350#0" expanded="true" />
+                <element signature="e#380#387#0" expanded="true" />
+                <element signature="e#380#387#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/kelilingPersegiPanjang.java" />
         <option value="$PROJECT_DIR$/src/kelilingSegitiga.java" />
         <option value="$PROJECT_DIR$/src/menghitungRatarataBilangan.java" />
+        <option value="$PROJECT_DIR$/src/menukarNilaiVariable.java" />
       </list>
     </option>
   </component>
@@ -179,14 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.menukarNilaiVariable">
-    <configuration name="exponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exponentiation" />
-      <module name="Java-BasicProgramming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.operator">
     <configuration name="kelilingPersegi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kelilingPersegi" />
       <module name="Java-BasicProgramming" />
@@ -215,13 +229,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator" />
+      <module name="Java-BasicProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.operator" />
         <item itemvalue="Application.menukarNilaiVariable" />
         <item itemvalue="Application.kelilingSegitiga" />
         <item itemvalue="Application.kelilingPersegiPanjang" />
         <item itemvalue="Application.kelilingPersegi" />
-        <item itemvalue="Application.exponentiation" />
       </list>
     </recent_temporary>
   </component>
@@ -240,9 +261,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26213592" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26213592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JE" order="3" />
@@ -397,6 +417,24 @@
             <element signature="e#95#134#0" expanded="true" />
             <element signature="e#684#730#0" expanded="true" />
             <element signature="e#684#730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menukarNilaiVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#89#96#0" expanded="true" />
+            <element signature="e#171#178#0" expanded="true" />
+            <element signature="e#171#178#0" expanded="true" />
+            <element signature="e#208#215#0" expanded="true" />
+            <element signature="e#208#215#0" expanded="true" />
+            <element signature="e#343#350#0" expanded="true" />
+            <element signature="e#343#350#0" expanded="true" />
+            <element signature="e#380#387#0" expanded="true" />
+            <element signature="e#380#387#0" expanded="true" />
           </folding>
         </state>
       </provider>
