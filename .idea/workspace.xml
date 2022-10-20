@@ -58,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kelilingSegitiga.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -66,6 +66,20 @@
               <folding>
                 <element signature="e#531#563#0" expanded="true" />
                 <element signature="e#531#563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/menghitungRatarataBilangan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+              <folding>
+                <element signature="e#95#134#0" expanded="true" />
+                <element signature="e#684#730#0" expanded="true" />
+                <element signature="e#684#730#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/kelilingPersegi.java" />
         <option value="$PROJECT_DIR$/src/kelilingPersegiPanjang.java" />
         <option value="$PROJECT_DIR$/src/kelilingSegitiga.java" />
+        <option value="$PROJECT_DIR$/src/menghitungRatarataBilangan.java" />
       </list>
     </option>
   </component>
@@ -164,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.kelilingSegitiga">
+  <component name="RunManager" selected="Application.menukarNilaiVariable">
     <configuration name="exponentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exponentiation" />
       <module name="Java-BasicProgramming" />
@@ -193,8 +208,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vowelConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vowelConsonant" />
+    <configuration name="menukarNilaiVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="menukarNilaiVariable" />
       <module name="Java-BasicProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -202,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.menukarNilaiVariable" />
         <item itemvalue="Application.kelilingSegitiga" />
         <item itemvalue="Application.kelilingPersegiPanjang" />
         <item itemvalue="Application.kelilingPersegi" />
         <item itemvalue="Application.exponentiation" />
-        <item itemvalue="Application.vowelConsonant" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +240,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26213592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -242,7 +258,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="YouTrack" order="7" />
       <window_info anchor="bottom" id="Regex" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3294702" />
       <window_info anchor="bottom" id="Java Regex Tester" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" />
@@ -359,11 +375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
-          <folding>
-            <element signature="e#118#155#1" expanded="true" />
-            <element signature="e#584#622#0" expanded="true" />
-            <element signature="e#584#622#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -374,6 +385,18 @@
           <folding>
             <element signature="e#531#563#0" expanded="true" />
             <element signature="e#531#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menghitungRatarataBilangan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+          <folding>
+            <element signature="e#95#134#0" expanded="true" />
+            <element signature="e#684#730#0" expanded="true" />
+            <element signature="e#684#730#0" expanded="true" />
           </folding>
         </state>
       </provider>
